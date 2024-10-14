@@ -3,8 +3,8 @@ def add(x, y):
     pass
 
 def subtract(x, y):
-    # todo
-    pass
+    return(x - y)
+    
 
 def multiply(x, y):
     # todo
